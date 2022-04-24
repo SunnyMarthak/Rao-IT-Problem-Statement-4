@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Algorithm4/1.0.0": {
+        "runtime": {
+          "Algorithm4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithm4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

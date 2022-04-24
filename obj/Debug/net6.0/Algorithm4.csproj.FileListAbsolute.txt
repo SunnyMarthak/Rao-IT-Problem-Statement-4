@@ -1,0 +1,15 @@
+E:\Rao IT Competition\Algorithm4\bin\Debug\net6.0\Algorithm4.exe
+E:\Rao IT Competition\Algorithm4\bin\Debug\net6.0\Algorithm4.deps.json
+E:\Rao IT Competition\Algorithm4\bin\Debug\net6.0\Algorithm4.runtimeconfig.json
+E:\Rao IT Competition\Algorithm4\bin\Debug\net6.0\Algorithm4.dll
+E:\Rao IT Competition\Algorithm4\bin\Debug\net6.0\Algorithm4.pdb
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\Algorithm4.csproj.AssemblyReference.cache
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\Algorithm4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\Algorithm4.AssemblyInfoInputs.cache
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\Algorithm4.AssemblyInfo.cs
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\Algorithm4.csproj.CoreCompileInputs.cache
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\Algorithm4.dll
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\refint\Algorithm4.dll
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\Algorithm4.pdb
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\Algorithm4.genruntimeconfig.cache
+E:\Rao IT Competition\Algorithm4\obj\Debug\net6.0\ref\Algorithm4.dll
